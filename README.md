@@ -9,7 +9,8 @@
 - ⚡ Fun fact: ...
 -->
 
-<h2>Hi, I'm Eva! <img src="https://tse4.mm.bing.net/th/id/OIP.kgesht6sQJVy-Esws1KNfAAAAA?rs=1&pid=ImgDetMain&o=7&rm=3" width="50"></h2>
+<h2>Hi, I'm Eva! <img width="372" height="280" alt="image" src="https://github.com/user-attachments/assets/1fa46c5b-d90a-4531-871c-4ac3121f4e3a" /></h2>
+
 
 <div id="badges">
   <a href="https://uk.linkedin.com/in/eva-mohamed-mala">
