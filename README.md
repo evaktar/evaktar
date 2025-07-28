@@ -1,3 +1,4 @@
+#Hi, I'm Eva! 
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -9,7 +10,7 @@
 - ⚡ Fun fact: ...
 -->
 
-<h2>Hi, I'm Eva! <img src="https://media.tenor.com/4V4Mj9lFrRcAAAAC/cat.gif" height=50 alt="Shocked Cat GIF"</h2>
+<img src="https://media.tenor.com/4V4Mj9lFrRcAAAAC/cat.gif" height=50 alt="Shocked Cat GIF"/>
 
 
 <div id="badges">
