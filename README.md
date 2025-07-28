@@ -9,7 +9,7 @@
 - ⚡ Fun fact: ...
 -->
 
-<h2>Hi, I'm Eva! <img src="https://media.tenor.com/4V4Mj9lFrRcAAAAC/cat.gif" alt="Shocked Cat GIF"</h2>
+<h2>Hi, I'm Eva! <img src="https://media.tenor.com/4V4Mj9lFrRcAAAAC/cat.gif" height=50 alt="Shocked Cat GIF"</h2>
 
 
 <div id="badges">
