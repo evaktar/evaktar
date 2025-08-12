@@ -15,11 +15,6 @@
 
 📜 I am a BSc Computer and Data Science Student @ BCU. 
 
-🌱 I’m currently learning data analytics (through 13-month Data & Analtytics Internship @ BMW Financial Services) and data science.
-
-🔍 Passionate about uncovering insights through data and building impactful solutions.
-
-
 <div id="badges">
   <p> 📫 How to reach me: </p>
   <a href="https://uk.linkedin.com/in/eva-mohamed-mala">
