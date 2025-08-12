@@ -21,4 +21,5 @@
   <a href="https://uk.linkedin.com/in/eva-mohamed-mala">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a> evaktar4@gmail.com </a>
 </div>
