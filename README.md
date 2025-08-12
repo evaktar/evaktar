@@ -13,13 +13,19 @@
 
 <img src="https://media.tenor.com/4V4Mj9lFrRcAAAAC/cat.gif" height=50 alt="Shocked Cat GIF"/>
 
-<p>📜 I am a BSc Computer and Data Science Student @ BCU.</p>
-<p> 🌱 I’m currently learning data analytics (having taken on a 13 months placement as a Data Analyst @ BMW Financial Services) and data science.</p>
+📜 I am a BSc Computer and Data Science Student @ BCU. 
+
+🌱 I’m currently learning data analytics (through 13-month Data & Analtytics Internship @ BMW Financial Services) and data science.
+
+🔍 Passionate about uncovering insights through data and building impactful solutions.
+
 
 <div id="badges">
   <p> 📫 How to reach me: </p>
   <a href="https://uk.linkedin.com/in/eva-mohamed-mala">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <p>evaktar4@gmail.com </p>
+  
+  📧<b>Email:</b> evaktar4@gmail.com
+
 </div>
