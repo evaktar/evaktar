@@ -13,7 +13,7 @@
 
 <img src="https://media.tenor.com/4V4Mj9lFrRcAAAAC/cat.gif" height=50 alt="Shocked Cat GIF"/>
 
-📜 I am a BSc Computer and Data Science Student @ BCU. 
+📜 BSc Computer and Data Science Student @ BCU. 
 
 <div id="badges">
   <p> 📫 How to reach me: </p>
